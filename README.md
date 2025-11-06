@@ -18,3 +18,26 @@ Add this to your `pubspec.yaml`:
 ```yaml
 dependencies:
   flutter_countryify: ^0.0.1
+```
+## 💡 Usage
+
+Import the package:
+
+```dart
+import 'package:flutter_countryify/flutter_countryify.dart';
+final country = CountryData.fromCode('PK');
+
+print(country.name);       // Pakistan
+print(country.currency);   // PKR
+print(country.phoneCode);  // +92
+
+//Diplay Country Flag
+CountryFlag(
+  countryCode: 'PK',
+  shape: FlagShape.circle,    // FlagShape.square, FlagShape.rounded
+  width: 50,
+  height: 50,
+);
+```
+## 🖼️ Preview
+![flutter_countryify example](https://github.com/hwasiq15/flutter_countryify/blob/main/example/example_screen_shot.jpg)
