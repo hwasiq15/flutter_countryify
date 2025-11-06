@@ -40,4 +40,4 @@ CountryFlag(
 );
 ```
 ## 🖼️ Preview
-![flutter_countryify example](https://github.com/hwasiq15/flutter_countryify/blob/main/example/example_screen_shot.jpg)
+![flutter_countryify example](https://raw.githubusercontent.com/hwasiq15/flutter_countryify/refs/heads/main/example/example_screen_shot.jpg)
