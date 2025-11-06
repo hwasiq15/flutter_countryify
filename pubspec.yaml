@@ -1,9 +1,10 @@
 name: flutter_countryify
 description: A Flutter package to get country details (name, code, currency) and flag widgets in square, rounded, or circle shapes.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/hwasiq15/flutter_countryify
 repository: https://github.com/hwasiq15/flutter_countryify
 issue_tracker: https://github.com/hwasiq15/flutter_countryify/issues
+license: MIT
 
 environment:
   sdk: ^3.9.2
